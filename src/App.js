@@ -111,7 +111,7 @@ function App() {
       </div>
       {!formIsEnded ? (
         <main>
-          <header className='  md:w-1/2 w-[95%] mx-auto mb-4  -mt-5   '>
+          <header className='  md:w-1/2 w-[95%] mx-auto  -mt-5  '>
             <figure className='rounded-lg'>
               <img src={bar} alt='bar ' className='rounded-lg' />
             </figure>
